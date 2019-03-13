@@ -8,7 +8,7 @@
         在https://www.python.org/downloads/下载python3安装包，安装后再使用管理员cmd窗口执行`py -m pip install pillow requests reportlab`。
     ubuntu系统:
         使用`sudo apt install python3-pil python3-requests python3-reportlab`命令即可安装
-1.  执行脚本: windows下双击执行脚本，Linux下输入命令`python3 ./get_lib_ebook.py`执行脚本
+1.  执行脚本: windows下双击执行脚本，Linux下输入命令`python3 ./get_lib_ebook_extreme.py`执行脚本
 2.  打开南航的网上图书馆lib.nuaa.edu.cn
 3.  搜索你想看的书籍，并在搜索结果中打开对应链接
 4.  查看此书的界面内**是否有在线阅读的按钮**
