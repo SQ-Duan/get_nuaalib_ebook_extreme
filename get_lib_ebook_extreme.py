@@ -237,8 +237,8 @@ def catch_n_download(Reader_URL):
                             img_w, img_h = img.size
 
                             if __a4_w / img_w < __a4_h / img_h:
-                                img_w = __a4_w
                                 img_h = img_h * (__a4_w / img_w)
+                                img_w = __a4_w
                             else:
                                 img_w = img_w * (__a4_h / img_h)
                                 img_h = __a4_h
