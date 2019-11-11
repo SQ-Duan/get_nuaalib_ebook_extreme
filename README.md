@@ -1,4 +1,7 @@
 # get_nuaalib_ebook_extreme
+
+**图书馆已采用邮箱申请PDF方式，此脚本作废，仅供参考学习**
+
 南航图书馆电子图书馆转PDF脚本
 
 更改自 https://github.com/Yohoa/Download-Scanned-Book-from-the-Library-of-NUAA
