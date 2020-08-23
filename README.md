@@ -6,6 +6,11 @@
 
 更改自 https://github.com/Yohoa/Download-Scanned-Book-from-the-Library-of-NUAA
 
+## Features
+
+1. 抓取到的图片片不再采用本地存储的方式，采用内存存储
+2. 网络请求和PDF存储分别不同线程，无需等待全部内容下载完，边下载边存储，速度更快
+
 ## 使用说明
 
 0.  安装python3和相关库:  
